@@ -1,0 +1,15 @@
+.search-avatar-box {
+  display: flex;
+  gap: 1.2rem;
+}
+
+#navbar {
+  background-color: #fff;
+  color: #000;
+}
+
+@media only screen and (max-width: 768px) {
+  #brand-name {
+    display: none;
+  }
+}
